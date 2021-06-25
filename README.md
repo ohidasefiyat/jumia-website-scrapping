@@ -1,1 +1,1 @@
-# jumia-website-scrapping
+# jumia-website-scrapping, is an attempt to search for a product on jumia then return the Min and Max price of the product and also save all the available similar products on the website to a database
